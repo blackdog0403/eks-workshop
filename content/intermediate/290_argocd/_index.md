@@ -1,7 +1,7 @@
 ---
 title: "Continuous Deployment with ArgoCD"
 chapter: true
-weight: 260
+weight: 290
 draft: false
 tags:
   - intermediate

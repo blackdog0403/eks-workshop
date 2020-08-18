@@ -2,6 +2,7 @@
 title: "Optimized Worker Node Management with Ocean by Spot.io"
 chapter: true
 weight: 190
+hidden: true
 tags:
   - beginner
 ---

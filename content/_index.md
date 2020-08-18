@@ -1,5 +1,5 @@
 ---
-title: "Amazon EKS Workshop"
+title: "Amazon EKS Workshop for AWS Builders"
 chapter: true
 weight: 1
 ---

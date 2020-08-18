@@ -3,6 +3,7 @@ title: "Machine Learning using Kubeflow"
 chapter: true
 weight: 420
 pre: '<i class="fa fa-film" aria-hidden="true"></i> '
+hidden: true
 draft: false
 aliases:
     - /kubeflow/

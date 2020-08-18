@@ -3,6 +3,7 @@ title: "IAM Roles for Service Accounts"
 date: 2018-11-13T16:32:30+09:00
 weight: 110
 pre: '<i class="fa fa-film" aria-hidden="true"></i> '
+hidden: true
 draft: false
 tags:
   - intermediate

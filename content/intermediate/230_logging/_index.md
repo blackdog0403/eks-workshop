@@ -1,6 +1,7 @@
 ---
 title: "Logging with Elasticsearch, Fluent Bit, and Kibana (EFK)"
-chapter: true
+hidden: true
+draft: false
 weight: 230
 tags:
   - intermediate

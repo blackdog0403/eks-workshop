@@ -3,6 +3,7 @@ title: "Tracing with X-Ray"
 chapter: true
 weight: 245
 draft: false
+hidden: true
 tags:
   - advanced
   - operations

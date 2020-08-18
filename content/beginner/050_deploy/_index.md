@@ -2,6 +2,7 @@
 title: "Deploy the Example Microservices"
 chapter: true
 weight: 50
+hidden: true
 pre: '<i class="fa fa-film" aria-hidden="true"></i> '
 tags:
   - beginner

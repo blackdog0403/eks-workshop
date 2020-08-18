@@ -2,6 +2,7 @@
 title: "Exposing a Service"
 chapter: true
 weight: 130
+hidden: true
 pre: '<i class="fa fa-film" aria-hidden="true"></i> '
 tags:
   - beginner

@@ -2,6 +2,7 @@
 title: "EKS CloudWatch Container Insights"
 chapter: true
 weight: 250
+hidden: true
 tags:
   - intermediate
   - operations

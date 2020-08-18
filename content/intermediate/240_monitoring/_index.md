@@ -4,6 +4,7 @@ date: 2018-10-14T09:27:46-04:00
 weight: 240
 chapter: true
 draft: false
+hidden: true
 tags:
   - advanced
   - operations

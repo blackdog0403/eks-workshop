@@ -2,6 +2,7 @@
 title: "Custom Resource Definition"
 chapter: true
 weight: 270
+hidden: true
 tags:
   - advanced
   - operations

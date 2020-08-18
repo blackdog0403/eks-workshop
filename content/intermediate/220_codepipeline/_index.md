@@ -2,6 +2,7 @@
 title: "CI/CD with CodePipeline"
 chapter: true
 weight: 220
+hidden: true
 draft: false
 tags:
   - advanced

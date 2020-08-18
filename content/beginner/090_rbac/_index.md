@@ -2,6 +2,7 @@
 title: "Intro to RBAC"
 chapter: true
 weight: 90
+hidden: true
 pre: '<i class="fa fa-film" aria-hidden="true"></i> '
 tags:
   - beginner

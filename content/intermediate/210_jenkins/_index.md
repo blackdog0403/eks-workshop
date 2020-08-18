@@ -2,6 +2,7 @@
 title: "Deploying Jenkins"
 chapter: true
 weight: 210
+hidden: true
 draft: false
 tags:
   - advanced

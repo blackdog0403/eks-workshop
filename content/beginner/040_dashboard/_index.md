@@ -3,6 +3,7 @@ title: "Deploy the Kubernetes Dashboard"
 chapter: true
 weight: 40
 pre: '<i class="fa fa-film" aria-hidden="true"></i> '
+hidden: true
 tags:
   - beginner
   - CON203

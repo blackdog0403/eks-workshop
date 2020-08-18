@@ -2,6 +2,7 @@
 title: "Deploy Example Microservices Using Helm"
 chapter: true
 weight: 80
+hidden: true
 ---
 
 ## Deploy Example Microservices Using Helm

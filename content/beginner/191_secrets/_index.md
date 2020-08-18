@@ -5,6 +5,7 @@ weight: 191
 pre: '<i class="fa fa-film" aria-hidden="true"></i> '
 tags:
   - beginner
+hidden: true
 ---
 
 # Encrypting Kubernetes Secrets

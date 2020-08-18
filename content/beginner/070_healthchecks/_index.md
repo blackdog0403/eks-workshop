@@ -6,6 +6,7 @@ pre: '<i class="fa fa-film" aria-hidden="true"></i> '
 tags:
   - beginner
   - CON206
+hidden: true
 ---
 
 # Health Checks
